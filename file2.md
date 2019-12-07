@@ -30,4 +30,4 @@ Files have content. And a path. But git blobs are not files.
 24..... Val() .....24
 25.................25```
 
-HMACs are cool
+hmacs are cool again
